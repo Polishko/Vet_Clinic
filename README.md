@@ -1,2 +1,2 @@
 # Vet_Clinic
-A veterinary clinic system for managing patient data and procedures
+A Django app for veterinary clinics intended to aid in managing patient data and procedure records (vaccinations, phydical examination and treatment).
